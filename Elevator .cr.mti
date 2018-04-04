@@ -1,7 +1,0 @@
-/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
--- Loading package STANDARD
--- Compiling entity coder
--- Compiling architecture structural of coder
-
-} {} {}}
