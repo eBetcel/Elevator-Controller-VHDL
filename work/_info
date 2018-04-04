@@ -8,25 +8,60 @@ z2
 !i10f 100
 cModel Technology
 d/home/shoegazer/Desktop/CKT
-Edisplay_7seg
-Z0 w1522851345
+Ecoder
+Z0 w1522854140
 Z1 d/home/shoegazer/Desktop/CKT/Elevator
-Z2 8/home/shoegazer/Desktop/CKT/Elevator/display.vhd
-Z3 F/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Z2 8/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
+Z3 F/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
+l0
+L1
+VjEJY59RdB0RWgKim=63on0
+!s100 K57<MOb5zAOe708=5cRC=2
+Z4 OV;C;10.5c;63
+32
+Z5 !s110 1522854150
+!i10b 1
+Z6 !s108 1522854149.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd|
+Z8 !s107 /home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Astructural
+DEx4 work 5 coder 0 22 jEJY59RdB0RWgKim=63on0
+l9
+L8
+VBYCSCcFY4ff5OG4Fg:G[o1
+!s100 n4HTRP6?9n2`meiDF^iFa2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Edisplay_7seg
+Z11 w1522851345
+R1
+Z12 8/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Z13 F/home/shoegazer/Desktop/CKT/Elevator/display.vhd
 l0
 L1
 V_QkcR;<f?KK:c_@[l977P0
 !s100 _5fEF4dIG]zC`F63^Jam12
-Z4 OV;C;10.5c;63
+R4
 32
-Z5 !s110 1522851485
+Z14 !s110 1522851485
 !i10b 1
-Z6 !s108 1522851485.000000
-Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/display.vhd|
-Z8 !s107 /home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+Z15 !s108 1522851485.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+Z17 !s107 /home/shoegazer/Desktop/CKT/Elevator/display.vhd|
 !i113 1
-Z9 o-work work -2002 -explicit
-Z10 tExplicit 1 CvgOpt 0
+R9
+R10
 Astructural
 DEx4 work 12 display_7seg 0 22 _QkcR;<f?KK:c_@[l977P0
 l9
@@ -35,11 +70,11 @@ V65d1=ZYO7hHAYV41mX`j>0
 !s100 k5mWHW0<n`9]QFo_EOOWk2
 R4
 32
-R5
+R14
 !i10b 1
-R6
-R7
-R8
+R15
+R16
+R17
 !i113 1
 R9
 R10
