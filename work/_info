@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/shoegazer/Desktop/CKT
+Edisplay_7seg
+Z0 w1522851345
+Z1 d/home/shoegazer/Desktop/CKT/Elevator
+Z2 8/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Z3 F/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+l0
+L1
+V_QkcR;<f?KK:c_@[l977P0
+!s100 _5fEF4dIG]zC`F63^Jam12
+Z4 OV;C;10.5c;63
+32
+Z5 !s110 1522851485
+!i10b 1
+Z6 !s108 1522851485.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+Z8 !s107 /home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Astructural
+DEx4 work 12 display_7seg 0 22 _QkcR;<f?KK:c_@[l977P0
+l9
+L8
+V65d1=ZYO7hHAYV41mX`j>0
+!s100 k5mWHW0<n`9]QFo_EOOWk2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
