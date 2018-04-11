@@ -9,7 +9,7 @@ z2
 cModel Technology
 d/home/shoegazer/Desktop/CKT
 Ecoder
-Z0 w1522854140
+Z0 w1522855420
 Z1 d/home/shoegazer/Desktop/CKT/Elevator
 Z2 8/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
 Z3 F/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
@@ -19,9 +19,9 @@ VjEJY59RdB0RWgKim=63on0
 !s100 K57<MOb5zAOe708=5cRC=2
 Z4 OV;C;10.5c;63
 32
-Z5 !s110 1522854150
+Z5 !s110 1523459493
 !i10b 1
-Z6 !s108 1522854149.000000
+Z6 !s108 1523459493.000000
 Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd|
 Z8 !s107 /home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd|
 !i113 1
@@ -31,8 +31,8 @@ Astructural
 DEx4 work 5 coder 0 22 jEJY59RdB0RWgKim=63on0
 l9
 L8
-VBYCSCcFY4ff5OG4Fg:G[o1
-!s100 n4HTRP6?9n2`meiDF^iFa2
+V;6;c[FkF^aoY0DZf0e3TC1
+!s100 PXFka1?:ne<Mzh70nl@Em2
 R4
 32
 R5
@@ -43,38 +43,302 @@ R8
 !i113 1
 R9
 R10
-Edisplay_7seg
-Z11 w1522851345
+Ecomparador
+Z11 w1523454733
 R1
-Z12 8/home/shoegazer/Desktop/CKT/Elevator/display.vhd
-Z13 F/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Z12 8/home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd
+Z13 F/home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd
+l0
+L1
+VhdkMa4l=BC;kB?NXK_Nz60
+!s100 @O6OWNZEW><d]f;LhSnl[2
+R4
+32
+R5
+!i10b 1
+R6
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd|
+Z15 !s107 /home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 10 comparador 0 22 hdkMa4l=BC;kB?NXK_Nz60
+l8
+L7
+VkG=A;k5TCGU6MgUkI5[L@2
+!s100 L<h`d^L^?Q5=6Tk;Y4Bai0
+R4
+32
+R5
+!i10b 1
+R6
+R14
+R15
+!i113 1
+R9
+R10
+Ecomparador4bits
+R11
+R1
+Z16 8/home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd
+Z17 F/home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd
+l0
+L1
+Vei?hWVAoejNO06@6VjW<O2
+!s100 WXIK6VoOOa?Td?7aDI=CN2
+R4
+32
+R5
+!i10b 1
+R6
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd|
+Z19 !s107 /home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 15 comparador4bits 0 22 ei?hWVAoejNO06@6VjW<O2
+l24
+L7
+VgzlWRMn:=04Gil;:o>oCl2
+!s100 Nh]MbFWWXG3XAk06mLhm01
+R4
+32
+R5
+!i10b 1
+R6
+R18
+R19
+!i113 1
+R9
+R10
+Ecomparadorcominput
+R11
+R1
+Z20 8/home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd
+Z21 F/home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd
+l0
+L1
+Ve1n^mFL0;SD>nk0g2[]H>3
+!s100 06FD>E0@h0ETL?o=KS_<`1
+R4
+32
+R5
+!i10b 1
+R6
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd|
+Z23 !s107 /home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 18 comparadorcominput 0 22 e1n^mFL0;SD>nk0g2[]H>3
+l9
+L8
+VnA`^iD@_AAl;AQV^XFeGf0
+!s100 F=:g5f08lTWmhkIJK=_j33
+R4
+32
+R5
+!i10b 1
+R6
+R22
+R23
+!i113 1
+R9
+R10
+Edisplay_7seg
+Z24 w1522855381
+R1
+Z25 8/home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Z26 F/home/shoegazer/Desktop/CKT/Elevator/display.vhd
 l0
 L1
 V_QkcR;<f?KK:c_@[l977P0
 !s100 _5fEF4dIG]zC`F63^Jam12
 R4
 32
-Z14 !s110 1522851485
+R5
 !i10b 1
-Z15 !s108 1522851485.000000
-Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/display.vhd|
-Z17 !s107 /home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+R6
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/display.vhd|
+Z28 !s107 /home/shoegazer/Desktop/CKT/Elevator/display.vhd|
 !i113 1
 R9
 R10
 Astructural
 DEx4 work 12 display_7seg 0 22 _QkcR;<f?KK:c_@[l977P0
-l9
+l10
 L8
-V65d1=ZYO7hHAYV41mX`j>0
-!s100 k5mWHW0<n`9]QFo_EOOWk2
+Vk?P:jaALjFUZd@_g_ha[c1
+!s100 ?Qc5;iKXoD[ki`IU;JP5;1
 R4
 32
-R14
+R5
 !i10b 1
-R15
-R16
-R17
+R6
+R27
+R28
+!i113 1
+R9
+R10
+Eelevator
+w1523459388
+R1
+8/home/shoegazer/Desktop/CKT/Elevator/elevator.vhd
+F/home/shoegazer/Desktop/CKT/Elevator/elevator.vhd
+l0
+L1
+VFMAGjz2oQRCefnOoEf?7K0
+!s100 MW914SfX1zWhfgj3[cUUj0
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/elevator.vhd|
+!s107 /home/shoegazer/Desktop/CKT/Elevator/elevator.vhd|
+!i113 1
+R9
+R10
+Esubtrator
+R11
+R1
+Z29 8/home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd
+Z30 F/home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd
+l0
+L1
+VH=HJ:@_=?UmIdToQ2?5dT2
+!s100 HHBY>Hj_IWJWM69NA<7^T0
+R4
+32
+R5
+!i10b 1
+R6
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd|
+Z32 !s107 /home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 9 subtrator 0 22 H=HJ:@_=?UmIdToQ2?5dT2
+l7
+L6
+VPlX8eA73^>i[FPbFk0FUX3
+!s100 N7X<Slf0>GCMPFQSkA<?T1
+R4
+32
+R5
+!i10b 1
+R6
+R31
+R32
+!i113 1
+R9
+R10
+Esubtrator4bits
+R11
+R1
+Z33 8/home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd
+Z34 F/home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd
+l0
+L1
+VTJ`Q_nf=^Ei0MG_iODghI2
+!s100 HAAic9BDoncA=Cc;j>fE40
+R4
+32
+R5
+!i10b 1
+R6
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd|
+Z36 !s107 /home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 14 subtrator4bits 0 22 TJ`Q_nf=^Ei0MG_iODghI2
+l21
+L6
+V74>gVB4_Q3Vdo0lamk8MK1
+!s100 k:HM@Z^ZjZ6CnkBeeL?i70
+R4
+32
+R5
+!i10b 1
+R6
+R35
+R36
+!i113 1
+R9
+R10
+Esubtrator_completo
+R11
+R1
+Z37 8/home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd
+Z38 F/home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd
+l0
+L1
+VV;T]gLFV9j2ITPXMlXl413
+!s100 3O`BPQbb:M>e2^:g8gL[C2
+R4
+32
+R5
+!i10b 1
+R6
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd|
+Z40 !s107 /home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd|
+!i113 1
+R9
+R10
+Astructural
+DEx4 work 18 subtrator_completo 0 22 V;T]gLFV9j2ITPXMlXl413
+l7
+L6
+V81>e?<B[3oFhzPmCReh7f2
+!s100 mImI?FS:13<kM?cWl=efF1
+R4
+32
+R5
+!i10b 1
+R6
+R39
+R40
+!i113 1
+R9
+R10
+Etrocador
+Z41 w1523459515
+R1
+Z42 8/home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd
+Z43 F/home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd
+l0
+L1
+VRP:JQk7_OnW6FE8iZ:@WO0
+!s100 @n^07YW?6QCC7o_fgXK2z0
+R4
+32
+Z44 !s110 1523459518
+!i10b 1
+Z45 !s108 1523459518.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd|
+Z47 !s107 /home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd|
+!i113 1
+R9
+R10
+Abehavior
+DEx4 work 8 trocador 0 22 RP:JQk7_OnW6FE8iZ:@WO0
+l10
+L9
+V_9:D05dFLEjK=Q??PHN8d0
+!s100 M2>oWaofhdGoh<AAm@6[G3
+R4
+32
+R44
+!i10b 1
+R45
+R46
+R47
 !i113 1
 R9
 R10
