@@ -1,0 +1,55 @@
+# Loading project Elevator
+# Compile of display.vhd was successful.
+# Compile of elevator.vhd failed with 5 errors.
+# Compile of elevator.vhd failed with 5 errors.
+# Compile of mux4bits.vhd was successful.
+# Compile of elevator.vhd failed with 5 errors.
+# Compile of elevator.vhd was successful.
+vsim work.elevator
+# vsim work.elevator 
+# Start time: 20:40:11 on Apr 17,2018
+# Loading std.standard
+# Loading work.elevator(structural)
+# Loading work.comparador4bits(structural)
+# Loading work.comparador(structural)
+# Loading work.comparadorcominput(structural)
+# Loading work.trocador(behavior)
+# Loading work.subtrator4bits(structural)
+# Loading work.subtrator(structural)
+# Loading work.subtrator_completo(structural)
+# Loading work.display_7seg(structural)
+add wave -position insertpoint  \
+sim:/elevator/a
+add wave -position insertpoint  \
+sim:/elevator/andaratual
+add wave -position insertpoint  \
+sim:/elevator/s
+add wave -position insertpoint  \
+sim:/elevator/s2
+add wave -position insertpoint  \
+sim:/elevator/ic
+add wave -position insertpoint  \
+sim:/elevator/cd
+add wave -position insertpoint  \
+sim:/elevator/cdes
+add wave -position insertpoint  \
+sim:/elevator/do
+add wave -position insertpoint  \
+sim:/elevator/ea
+add wave -position insertpoint  \
+sim:/elevator/eaSUB
+add wave -position insertpoint  \
+sim:/elevator/ebSUB
+add wave -position insertpoint  \
+sim:/elevator/sCOMP
+add wave -position insertpoint  \
+sim:/elevator/s0TROCADOR
+add wave -position insertpoint  \
+sim:/elevator/s1TROCADOR
+add wave -position insertpoint  \
+sim:/elevator/sSUB
+add wave -position insertpoint  \
+sim:/elevator/sSUB_display
+# Break key hit
+# End time: 20:48:20 on Apr 17,2018, Elapsed time: 0:08:09
+# Errors: 0, Warnings: 0

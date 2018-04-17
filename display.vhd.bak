@@ -1,7 +1,7 @@
 ENTITY display_7seg IS
 	PORT (
 		a: IN BIT_VECTOR ( 3 downto 0 ); -- Bit menos significativo é o d
-		s: OUT BIT_VECTOR ( 6 downto 0)
+		s: OUT BIT_VECTOR ( 6 downto 0);
 	);
 END display_7seg;
 

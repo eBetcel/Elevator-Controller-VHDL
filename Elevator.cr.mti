@@ -1,0 +1,67 @@
+/home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/coder4bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity coder
+-- Compiling architecture structural of coder
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/ComparadorComInput.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity ComparadorComInput
+-- Compiling architecture structural of ComparadorComInput
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/mux4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/mux4bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity mux_4x1
+-- Compiling architecture structural of mux_4x1
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/Comparador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity Comparador
+-- Compiling architecture structural of Comparador
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/subtrator4bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity subtrator4bits
+-- Compiling architecture structural of subtrator4bits
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/subtrator_completo.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity subtrator_completo
+-- Compiling architecture structural of subtrator_completo
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/elevator.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/elevator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity elevator
+-- Compiling architecture structural of elevator
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/Comparador4bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity Comparador4bits
+-- Compiling architecture structural of Comparador4bits
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/display.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/display.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity display_7seg
+-- Compiling architecture structural of display_7seg
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/subtrator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity subtrator
+-- Compiling architecture structural of subtrator
+
+} {} {}} /home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/shoegazer/Desktop/CKT/Elevator/TROCADOR.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity TROCADOR
+-- Compiling architecture BEHAVIOR of TROCADOR
+
+} {} {}}

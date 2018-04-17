@@ -1,4 +1,4 @@
-ENTITY MUX4BITS IS PORT (a, b, c, d: IN BIT; sel0, sel1: IN BIT;
+ENTITY mux_4x1 IS PORT (a, b, c, d: IN BIT; sel0, sel1: IN BIT;
 	s: OUT BIT);
 END mux_4x1;
 	

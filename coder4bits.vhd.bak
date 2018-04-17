@@ -1,7 +1,7 @@
 ENTITY coder IS
 	PORT (
 		a: IN BIT_VECTOR ( 9 downto 0 );
-		s: OUT BIT_VECTOR (3 downto 0) --bit menos significativo é o s3
+		s: OUT BIT_VECTOR (3 downto 0); --bit menos significativo é o s3
 	);
 END coder;
 
